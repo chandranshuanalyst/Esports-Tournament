@@ -1,7 +1,7 @@
 # Esports-Tournament
 
 Challenge 2 - Esports Tournament
-![Uploading image.png…]()
+![image](https://github.com/chandranshuanalyst/Esports-Tournament/assets/91171166/bbc22deb-a987-400d-b521-3c86b76bd61c)
 
 ## Intro
 The top eSports competitors from across the globe have gathered to battle it out
